@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667174870 source:c:\users\pride toad\documents\codeblocks\problemas\fake kites\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+
